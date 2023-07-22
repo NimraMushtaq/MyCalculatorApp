@@ -4,9 +4,9 @@
 Simple calculator using React js with basic functions
 The project is created with create react-app
 Check Out the app on this link
-```bash
+
 https://nimramushtaq.github.io/MyCalculatorApp/
-```
+
 
 ![](https://github.com/NimraMushtaq/MyCalculatorApp/blob/master/app.PNG)
 
